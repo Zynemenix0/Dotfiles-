@@ -1,6 +1,6 @@
 # Dotfiles-
 My first Arch dotfiles as my first repo. Tried my best for the first time ricing  
-used different  widgets,package,and effects which are metioned . 
+used different  widgets,package,and effects which are mentioned. 
 
 my main desktop 
 

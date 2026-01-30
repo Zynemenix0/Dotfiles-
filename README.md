@@ -4,17 +4,17 @@ used different  widgets,package,and effects which are metioned .
 
 my main desktop 
 
-![Desktop 2](idkwhattoname.png)
+![Desktop 2](screenshots/idkwhattoname.png)
 
 
 my previous desktop 
 
 
-![Desktop 1](azybnx.png)
+![Desktop 1](screenshots/azybnx.png)
 
 
-![Desktop 3](ss101.png)
+![Desktop 3](screenshots/ss101.png)
 
 
-![Desktop 4](ss505.png)
+![Desktop 4](screenshots/ss505.png)
 

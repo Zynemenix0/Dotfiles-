@@ -2,3 +2,5 @@ These are the packages used . they can be easily installed packages through pack
 
 *btop - modern terminal system monitor (CPU,RAM,disk,network and custom config include)
 
+*cmatrix - matrix style terminal animations 
+

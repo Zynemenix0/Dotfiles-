@@ -1,8 +1,9 @@
-These are the packages used . they can be easily installed packages through package manager 
+These are the packages used . they can be easily installed through package manager 
 
 *btop - modern terminal system monitor (CPU,RAM,disk,network and custom config include)
 
 *cmatrix - matrix style terminal animations 
 
-*asciiquarium - ACII aquarium animation in terminal 
+*asciiquarium - ASCII aquarium animation in terminal 
 
+*figlet - ASCII text banner genrator 

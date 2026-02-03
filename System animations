@@ -12,4 +12,13 @@ desktop animations
 
 *virtual desktop settings -slide 
 
+*kwin scripts -video wall and synchronize skip switcher with taskbar 
 
+*other desktop effects 
+   
+     ~ dialog parent 
+     ~ dim inactive 
+     ~ wobbly windows 
+     ~cube 
+     ~ geometry change  
+     ~ blur 
